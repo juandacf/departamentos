@@ -35,5 +35,11 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background: linear-gradient(to right, #f0e68c, #e3c565); 
+    border: 0px solid #d4af37; 
+    border-radius: 10px; 
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
+
 
