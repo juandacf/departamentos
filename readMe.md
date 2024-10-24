@@ -1,6 +1,5 @@
 TurisCol
 
-A través de este ejercicio de HTML y CSS básico, se pretende crear una página web en la cual exista una página principal que redireccione al usuario a 5 páginas específicas para los departamentos Santander, Nariño, Amazonas, Guajira y Meta.
-
+Por medio del uso básico de herramientas como HTML y CSS, se creó una página web donde se puede conocer más sobre 5 departamentos de Colombia: Meta, Antioquia, Santander, Guajira y Amazonas. Para conocer este proyecto más a fondo, por favor, presione el deployment link:
 
 Deployment link https://imaginative-lamington-58def0.netlify.app/
